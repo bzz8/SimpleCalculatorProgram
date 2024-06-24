@@ -1,0 +1,14 @@
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\net8.0\BasicCalculatorApp.exe
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\net8.0\BasicCalculatorApp.deps.json
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\net8.0\BasicCalculatorApp.runtimeconfig.json
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\net8.0\BasicCalculatorApp.dll
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\net8.0\BasicCalculatorApp.pdb
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.AssemblyInfo.cs
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.dll
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\refint\BasicCalculatorApp.dll
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.pdb
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\BasicCalculatorApp.genruntimeconfig.cache
+C:\Users\Brajesh Aryal\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\net8.0\ref\BasicCalculatorApp.dll
